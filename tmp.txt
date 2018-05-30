@@ -1,0 +1,2 @@
+      mSurface=Surface(name=com.android.launcher3/com.android.launcher3.Launcher)
+      mSurface=Surface(name=com.paic.example.simpleapp/com.paic.example.simpleapp.main.setting.SettingActivity)
